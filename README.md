@@ -11,6 +11,3 @@
 # 📊 GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=itswfidev&theme=dark)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=itswfidev&theme=dark&no-frame=false&no-bg=true&margin-w=4)
