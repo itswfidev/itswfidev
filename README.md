@@ -15,9 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=itswfidev&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=itswfidev&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=itswfidev&icon=0&color=4" />
