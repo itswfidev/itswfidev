@@ -17,13 +17,4 @@ I am a **Java Developer** currently focusing on:
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=itswfidev&theme=dark&show_icons=true&hide_border=false" height="150" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itswfidev&theme=dark&layout=compact&hide_border=false" height="150" alt="languages card" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=itswfidev&icon=0&color=0" alt="visitor count" />
-</p>
+[![](https://visitcount.itsvg.in/api?id=itswfidev&icon=0&color=0)](https://visitcount.itsvg.in)
